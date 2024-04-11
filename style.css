@@ -1,25 +1,18 @@
-body {background-color: #f5f5dd }
+body {background-color: #f5f5dd; }
 
-div.1{background-color: black; 
-width: 150px;
-height: 150px;
-margin-top: 15px;
- }
-
-div.2{background-color: black; 
-    width: 150px;
-    height: 150px;
-    margin-top: 15px;
- }
-
- div.3{background-color: black; 
-        width: 150px;
-        height: 150px;
-        margin-top: 15px;
+div.one{background-color: black; 
   }
 
-div.4 {background-color: black; 
-width: 150px;
-height: 150px;
-margin-top: 15px;
+div.two{background-color: rgba(0, 0, 0, 0.674); 
+  }
+
+ div.three{background-color: rgba(0, 0, 0, 0.279); 
+  }
+
+div.four {background-color: rgba(0, 0, 0, 0.064); 
+  }
+
+  div.shape {width: 150px;
+    height: 150px;
+    margin-top: 15px;
   }
